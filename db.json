@@ -5,7 +5,8 @@
     { "nama": "ke tiga", "nim": "673" }
   ],
 
-  "profile": {
-    "name": "typicode"
-  }
+  "user": [
+    {"user": "scridx", "pass": "123"}
+  ]
+  
 }
