@@ -6,7 +6,8 @@
   ],
 
   "pengguna": [
-    { "user": "scridx", "pass": "123"}
+    { "user": "scridx", "pass": "123"},
+    { "user": "exan", "pass": "asd" }
   ]
   
 }
