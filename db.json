@@ -1,13 +1,10 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "data": [
+    { "nama": "ke satu", "nim": "671" },
+    { "nama": "ke dua", "nim": "672" },
+    { "nama": "ke tiga", "nim": "673" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+
   "profile": {
     "name": "typicode"
   }
